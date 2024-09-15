@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
-import './index.css'
+import './index.scss'
 
 const App = () => (
-  <div className="container">
+  <div>
     <div>Name: react</div>
     <div>Framework: react</div>
     <div>Language: TypeScript</div>
